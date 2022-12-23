@@ -8,8 +8,9 @@ public class Boat implements WaterVehicle {
 
     }
 
-    public Boat(String name, int capacity) {
-        this.name = name;
+    public Boat(String name,int capacity)
+    {
+        this.name =name;
         this.capacity = capacity;
     }
 
